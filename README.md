@@ -6,8 +6,8 @@ Trabajo Grupo 6 Arboles Binarios
                                          |
                      +-------------+-------------------------+
                      |                                       |
-  [¿La industria está en crecimiento?]                  [No invertir]
-                           |
-          +----------+-------------------+
-          |                              |
-[Invertir en acciones]          [Considerar bonos]
+    [¿La industria está en crecimiento?]                  [No invertir]
+                                          |
+                   +----------+-------------------+
+                    |                              |
+         [Invertir en acciones]           [Considerar bonos]
